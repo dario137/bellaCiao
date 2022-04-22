@@ -1,0 +1,1 @@
+export const linkWax = "http://wax.pink.gg"
